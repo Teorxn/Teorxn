@@ -17,7 +17,8 @@
   <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="![image](https://github.com/user-attachments/assets/3a371c32-38f4-44b4-b89e-1ff518030781)
+" alt="icon" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
