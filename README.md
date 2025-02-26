@@ -18,6 +18,7 @@
   <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+  <a href="https://iconscout.com/icons/postgresql" class="text-underline font-size-sm" target="_blank">Postgresql</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
   <img src="![image](https://github.com/user-attachments/assets/3a371c32-38f4-44b4-b89e-1ff518030781)
 " alt="icon" width="50" height="50" />
 </div>
