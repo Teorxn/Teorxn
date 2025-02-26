@@ -4,10 +4,6 @@
 <h1 align="center">Hi 👋, I'm Mateo Correa Restrepo</h1>
 <h3 align="center">A passionate Programmer from Colombia, i'am a Software Engineering</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=supravatm&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat-mondal" /> 
-</p>
-
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="50" height="50" />
@@ -18,7 +14,6 @@
   <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
-  <a href="https://iconscout.com/icons/postgresql" class="text-underline font-size-sm" target="_blank">Postgresql</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
   <img src="![image](https://github.com/user-attachments/assets/3a371c32-38f4-44b4-b89e-1ff518030781)
 " alt="icon" width="50" height="50" />
 </div>
