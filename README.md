@@ -45,6 +45,8 @@
 ![Tailwind](http://img.shields.io/badge/-Tailwind-38b2ac?style=flat-square&logo=tailwind-css&logoColor=white)
 ![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Jira](http://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
 
 <br/>
 
