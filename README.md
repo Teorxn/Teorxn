@@ -10,10 +10,12 @@
   <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="icon" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="icon" width="50" height="50" />
+
   <img src="![image](https://github.com/user-attachments/assets/3a371c32-38f4-44b4-b89e-1ff518030781)
 " alt="icon" width="50" height="50" />
 </div>
